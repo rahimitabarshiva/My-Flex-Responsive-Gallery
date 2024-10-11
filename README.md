@@ -1,6 +1,8 @@
 # My-Flex-Responsive-Gallery
 In this project, the breathtaking beauty of Santorini, Greece is displayed using flex, ensuring a fully responsive layout. 🌊🌊🗺️🌅✈️🌊🌊
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![project view](https://github.com/user-attachments/assets/f7f9a273-617d-46f4-8f51-a9fee020367f)
+
+
 
 
 
